@@ -1,3 +1,12 @@
-# Anita-Karin-es6
-ANITA KARIN
-161552018150146
+# Syaif-es6
+Sebagai syarat untuk UTS Multiplatform
+
+Leader : 
+
+Syaiful Bahri
+
+Member : 
+
+Mohammad Sholahuddin 
+
+Anita Karin
